@@ -1,5 +1,7 @@
 # OpenAI API CodeX - Hello World
 
+![Visualization of this repo](./diagram.svg)
+
 This app is really simple.  It will eventually generate the space of all possible programs.
 
 ## if you hate reading
